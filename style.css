@@ -1,0 +1,31 @@
+Formas de vincular el CSS
+
+/* Por etiqueta */
+p {
+    color: rgb(53, 8, 95);
+    font-size: 50px;
+}
+
+
+/* Por clase */
+.titulo {
+    color: dodgerblue;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium'; 
+    font-size: 45px
+}
+ .subtitulo {
+     color: lightblue;
+     font-style: inherit;
+     font-family: 'Franklin Gothic Medium';
+     font-size: 30px;
+ }
+
+
+ /* Por ID */
+#texto {
+    color: slategrey;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+}
